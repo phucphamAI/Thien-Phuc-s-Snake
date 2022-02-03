@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\mylib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\mylib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(257,11): warning C4129: '_': unrecognized character escape sequence
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(291,10): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(305,10): warning C4129: '#': unrecognized character escape sequence
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(382,10): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(396,10): warning C4129: '#': unrecognized character escape sequence
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(488,10): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(503,10): warning C4129: '#': unrecognized character escape sequence
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(568,10): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(674,19): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(761,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(764,6): warning C4309: '=': truncation of constant value
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(865,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(882,6): warning C4309: '=': truncation of constant value
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(893,6): warning C4309: '=': truncation of constant value
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(896,6): warning C4309: '=': truncation of constant value
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(1072,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(1402,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(1553,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(1554,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(1712,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(1717,6): warning C4309: '=': truncation of constant value
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(1720,6): warning C4309: '=': truncation of constant value
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\Thien Phuc's Snake.h(1776,19): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\DELLL\source\repos\Phuc snake\Phuc snake\main.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Phuc snake.vcxproj -> C:\Users\DELLL\source\repos\Phuc snake\x64\Debug\Phuc snake.exe
